@@ -18,17 +18,17 @@ The project replicates the main DiD analysis of McCabe et al. and further explor
 
 ## Methodology
 
-### 1️⃣ Difference-in-Differences (DiD) Analysis
+### 1. Difference-in-Differences (DiD) Analysis
 - Treatment group: Followers of deplatformed users
 - Control group: Non-followers
 - Pre, Intervention, and Post-treatment periods defined
 - Modeled misinformation retweet counts using DiD to estimate causal impact
 
-### 2️⃣ Subgroup Analysis
+### 2. Subgroup Analysis
 - Examined QAnon and Trump followers separately
 - Focused on high-activity users to test heterogeneous treatment effects
 
-### 3️⃣ Robustness Checks
+### 3. Robustness Checks
 - Tested the parallel trends assumption
 - Extended post-treatment window to validate robustness of results
 
