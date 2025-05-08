@@ -50,15 +50,11 @@ The project replicates the main DiD analysis of McCabe et al. and further explor
 - `Twitter_misinfo_project.ipynb`: Main analysis notebook (Replication, DiD model, subgroup and robustness analyses)
 - `mccabe-public-data.csv`: Original dataset
 - `codebook`: codebook for the dataset
-  
-## Tools
-
-- Python (pandas, statsmodels, matplotlib)
 
 ## Related Work
 
 Please also check out my Medium post where I summarize this project and discuss its policy relevance in more detail.  
-[Medium Post](#) (https://medium.com/@sangmin.lee.ir/evaluating-the-effectiveness-of-twitters-deplatforming-as-a-content-moderation-strategy-1066dea05a46)
+[Medium Post](https://medium.com/@sangmin.lee.ir/evaluating-the-effectiveness-of-twitters-deplatforming-as-a-content-moderation-strategy-1066dea05a46)
 
 ## License
 
