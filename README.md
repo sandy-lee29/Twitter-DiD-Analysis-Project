@@ -53,9 +53,6 @@ The project replicates the main DiD analysis of McCabe et al. and further explor
 
 ## Related Work
 
-Please also check out my Medium post where I summarize this project and discuss its policy relevance in more detail.  
-[Medium Post](https://medium.com/@sangmin.lee.ir/evaluating-the-effectiveness-of-twitters-deplatforming-as-a-content-moderation-strategy-1066dea05a46)
-
-## License
-
-This project is for educational and research purposes only.
+Please also check out my [Medium Post](https://medium.com/@sangmin.lee.ir/evaluating-the-effectiveness-of-twitters-deplatforming-as-a-content-moderation-strategy-1066dea05a46) where I summarize this project and discuss its policy relevance in more detail.  
+ 
+ 
